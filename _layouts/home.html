@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h3 class="fw-bold">Sobre Mi</h3>
+    
+    <p></p>
+  
+    Investigador Senior y Profesor de Tiempo Completo en la Universidad de Cartagena, Colombia.
+    Doctor en Ciencias Sociales (Gerencia) y en Administración, con amplia experiencia en gestión, calidad y 
+    desarrollo organizacional. Cuenta con un Magíster en Administración de Empresas y especialización en Gerencia 
+    de la Calidad. Su trabajo académico se centra en la investigación aplicada y la formación en el ámbito 
+    empresarial y social. 
+    
+    <p></p>
+    Alta experiencia internacional como Investigador. 
+
+    <p></p>
+
+    Puedes ver mi perfil en ORCID y GOOGLE SCHOLAR.
+    
+  </div>
+  <div class="col-md-6">
+    <img src="assets/img/perfil.jpeg" alt="Home" width="100%">
+  </div>
+</div>
+
+{% include publications.html %}
+
+<div class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
+    {% for post in site.posts %}
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+    {% endfor %}
+  </div>
+</div>
