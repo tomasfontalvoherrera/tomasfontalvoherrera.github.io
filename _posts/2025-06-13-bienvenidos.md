@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Bienvenidos"
+author: Tomás Fontalvo Herrera
+date: 2025-06-13
 ---
 
 ¡Hola y bienvenidos a mi página personal!
