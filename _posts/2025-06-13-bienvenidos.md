@@ -24,12 +24,12 @@ Mi experiencia se ha centrado en la **gestión, calidad y desarrollo organizacio
 - Una selección de mis **publicaciones académicas** más relevantes.  
 - Información sobre mis **líneas de investigación** y proyectos actuales.  
 - Acceso a mi **currículum vitae actualizado**.  
+- Un espacio para **contacto profesional** y colaboración.
 - Enlaces a mis perfiles en plataformas académicas:
 
   - [Google Scholar](https://scholar.google.com/citations?user=sS66dDkAAAAJ&hl=es)  
   - [ORCID](https://orcid.org/0000-0003-4642-9251)
 
-- Un espacio para **contacto profesional** y colaboración.
 
 ### Gracias por visitar
 
