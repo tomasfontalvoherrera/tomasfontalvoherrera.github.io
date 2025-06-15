@@ -7,6 +7,7 @@ featured:
 - {name: 'Performance of a concurrent parallel production system through new operating curves of Six Sigma metrics', url: 'https://www.scielo.br/j/prod/a/BzN8fVXyL34Fj56JNWFq3Hd/?format=html&lang=en'}
 - {name: 'Violent deaths during and after the pandemic in Colombia: an artificial intelligence analysis', url: 'http://www.scielo.org.co/scielo.php?pid=S1900-65862024000100174&script=sci_abstract&tlng=en'}
 - {name: 'Evaluación con curvas de operación de métricas Seis Sigma el desempeño de sistemas productivos mixtos', url: 'https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/6680'}
+- {name: 'Más publicaciones', url: 'https://scholar.google.com/citations?user=sS66dDkAAAAJ&hl=es'}
 
 index:
 - {name: 'Curvas de operación de métricas Seis Sigma para evaluar la calidad de un proceso de producción paralelo convergente.', url: 'https://openurl.ebsco.com/EPDB%3Agcd%3A4%3A12639172/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A185124649&crl=c&link_origin=scholar.google.com'}
@@ -17,3 +18,4 @@ index:
 - {name: 'Performance of a concurrent parallel production system through new operating curves of Six Sigma metrics', url: 'https://www.scielo.br/j/prod/a/BzN8fVXyL34Fj56JNWFq3Hd/?format=html&lang=en'}
 - {name: 'Violent deaths during and after the pandemic in Colombia: an artificial intelligence analysis', url: 'http://www.scielo.org.co/scielo.php?pid=S1900-65862024000100174&script=sci_abstract&tlng=en'}
 - {name: 'Evaluación con curvas de operación de métricas Seis Sigma el desempeño de sistemas productivos mixtos', url: 'https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/6680'}
+- {name: 'Más publicaciones', url: 'https://scholar.google.com/citations?user=sS66dDkAAAAJ&hl=es'}
