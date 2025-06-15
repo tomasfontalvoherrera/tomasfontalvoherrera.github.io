@@ -24,5 +24,5 @@ social:
 
 
 contacts:
-- {name: 'Dr. Tomás José Fontalvo Herrera', title: 'Investigador & Profesor', department: 'Administración Industrial', institution: 'Universidad de Cartagena, Colombia', institution_address: 'Carrera 6, Calle de la Universidad #36-100, Cartagena de Indias, Bolívar, Colombia', phone: '(000) 000-0000', email: 'tfontalvoh@unicartagena.edu.co', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Tomás José Fontalvo Herrera', title: 'Investigador & Profesor', department: 'Administración Industrial', institution: 'Universidad de Cartagena, Colombia', institution_address: 'Carrera 6, Calle de la Universidad #36-100, Cartagena de Indias, Bolívar, Colombia', phone: '(000) 000-0000', email: 'tfontalvoh@unicartagena.edu.co', image: 'assets/img/perfil-3.jpeg'}
 # - {name: 'Dr. Tomás José Fontalvo Herrera', title: 'Investigador & Profesor', department: 'Administración Industrial', institution: 'Universidad de Cartagena, Colombia', institution_address: 'Carrera 6, Calle de la Universidad #36-100, Cartagena de Indias, Bolívar, Colombia', phone: '(000) 000-0000', email: 'tfontalvoh@unicartagena.edu.co', office: '', image: 'assets/img/contact.jpg'}
